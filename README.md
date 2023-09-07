@@ -8,10 +8,4 @@
 janlebar/janlebar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- Tech Stack
 
-HTML  CSS  JavaScript 
-MongoDB  Express  React  Node.js 
-NextJS  StrapiCMS 
-TailwindCSS MaterialUI StyledComponents Markdown 
-Git  npm  GitHub  Visual Studio Code
